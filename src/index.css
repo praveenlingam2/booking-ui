@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: radial-gradient(circle, rgba(238,174,202,1) 23%, rgba(148,187,233,1) 96%);
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.box{
+  height: auto; 
+  min-height: 219px;
+}
+.addHotel{
+  background: radial-gradient(circle, rgba(238,174,202,1) 23%, rgba(148,187,233,1) 96%);
+}
+#basic-nav-dropdown{
+ color:aliceblue;
+}
+
